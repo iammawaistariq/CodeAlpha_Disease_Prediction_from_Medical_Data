@@ -1,0 +1,7 @@
+Python 3.x
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+Jupyter Notebook
